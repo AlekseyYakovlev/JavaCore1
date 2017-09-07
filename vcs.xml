@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/AlekseyYakovlev/net_chat_jc2" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AlekseyYakovlev/JC2_threds" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\a.yakovlev\IdeaProjects" />
